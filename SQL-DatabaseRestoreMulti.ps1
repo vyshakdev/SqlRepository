@@ -1,12 +1,12 @@
-﻿#######################
+﻿################################################################################################################################
 <#
     File Name                     : SQL-DatabaseRestoreMulti.ps1
     Current Version               : v1.0
-    Script Create Date  		  : 
+    Script Create Date  	  : 02/10/2020 - vyshakdev
     Script Modified Date & By?	  : 
     DESCRIPTION                   : Restore multiple databases
 #>
-#######################
+################################################################################################################################
 
 $invocLoc= Split-Path -Parent $MyInvocation.MyCommand.Path
 
